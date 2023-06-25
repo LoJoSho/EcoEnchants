@@ -595,6 +595,7 @@ public class EcoEnchants {
         BY_NAME.inverse().remove(enchant);
         BY_KEY.put(enchant.getKey(), enchant);
         BY_NAME.put(enchant.getDisplayName(), enchant);
+        EcoEnchantsPlugin.getInstance().getServer().getPluginManager().registerEvents(enchant, EcoEnchantsPlugin.getInstance());
     }
 
     /**
