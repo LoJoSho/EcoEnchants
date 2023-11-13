@@ -1,8 +1,8 @@
 package com.willfp.ecoenchants.display.options;
 
 import com.willfp.eco.core.EcoPlugin;
-import com.willfp.eco.core.PluginDependent;
 import com.willfp.eco.core.data.PlayerProfile;
+import com.willfp.ecoenchants.PluginDependent;
 import com.willfp.ecoenchants.command.CommandToggleDescriptions;
 import lombok.Getter;
 import org.bukkit.entity.Player;

@@ -1,8 +1,8 @@
 package com.willfp.ecoenchants.enchantments.custom;
 
 import com.willfp.eco.core.EcoPlugin;
-import com.willfp.eco.core.PluginDependent;
 import com.willfp.eco.core.events.ArmorChangeEvent;
+import com.willfp.ecoenchants.PluginDependent;
 import com.willfp.ecoenchants.enchantments.EcoEnchant;
 import com.willfp.ecoenchants.enchantments.EcoEnchants;
 import com.willfp.ecoenchants.enchantments.meta.EnchantmentTarget;

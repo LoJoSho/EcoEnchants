@@ -1,10 +1,10 @@
 package com.willfp.ecoenchants.enchantments.support.obtaining;
 
 import com.willfp.eco.core.EcoPlugin;
-import com.willfp.eco.core.PluginDependent;
 import com.willfp.eco.core.config.updating.ConfigUpdater;
 import com.willfp.eco.util.NumberUtils;
 import com.willfp.ecoenchants.EcoEnchantsPlugin;
+import com.willfp.ecoenchants.PluginDependent;
 import com.willfp.ecoenchants.enchantments.EcoEnchant;
 import com.willfp.ecoenchants.enchantments.EcoEnchants;
 import com.willfp.ecoenchants.enchantments.meta.EnchantmentTarget;

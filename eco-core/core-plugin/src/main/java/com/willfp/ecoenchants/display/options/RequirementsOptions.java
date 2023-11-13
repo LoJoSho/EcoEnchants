@@ -1,7 +1,7 @@
 package com.willfp.ecoenchants.display.options;
 
 import com.willfp.eco.core.EcoPlugin;
-import com.willfp.eco.core.PluginDependent;
+import com.willfp.ecoenchants.PluginDependent;
 import lombok.Getter;
 import org.jetbrains.annotations.NotNull;
 

@@ -1,10 +1,10 @@
 package com.willfp.ecoenchants.enchantments.support.merging.anvil;
 
 import com.willfp.eco.core.EcoPlugin;
-import com.willfp.eco.core.PluginDependent;
 import com.willfp.eco.core.fast.FastItemStack;
 import com.willfp.eco.core.proxy.ProxyConstants;
 import com.willfp.eco.util.NumberUtils;
+import com.willfp.ecoenchants.PluginDependent;
 import com.willfp.ecoenchants.proxy.proxies.OpenInventoryProxy;
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;

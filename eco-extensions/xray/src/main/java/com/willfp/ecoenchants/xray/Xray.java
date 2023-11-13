@@ -90,9 +90,10 @@ public class Xray extends Spell {
             block1.setMetadata("xray-uuid", this.getPlugin().getMetadataValueFactory().create(shulker.getUniqueId()));
 
             if (this.getConfig().getBool(EcoEnchants.CONFIG_LOCATION + "color-glow")) {
-                @SuppressWarnings("deprecation")
-                Team team = TeamUtils.getMaterialColorTeam(block1.getType());
-                team.addEntry(shulker.getUniqueId().toString());
+                // TODO: Fix this
+                //@SuppressWarnings("deprecation")
+                //Team team = TeamUtils.getMaterialColorTeam(block1.getType());
+                //team.addEntry(shulker.getUniqueId().toString());
             }
 
             this.getPlugin().getScheduler().runLater(() -> {

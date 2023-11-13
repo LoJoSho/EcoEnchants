@@ -1,7 +1,7 @@
 package com.willfp.ecoenchants.display.options.sorting.implementations;
 
-import com.willfp.eco.core.PluginDependent;
 import com.willfp.ecoenchants.EcoEnchantsPlugin;
+import com.willfp.ecoenchants.PluginDependent;
 import com.willfp.ecoenchants.display.EnchantmentCache;
 import com.willfp.ecoenchants.display.options.sorting.EnchantmentSorter;
 import com.willfp.ecoenchants.display.options.sorting.SortParameters;

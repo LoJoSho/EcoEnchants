@@ -1,7 +1,7 @@
 package com.willfp.ecoenchants.enchantments.util;
 
 import com.willfp.eco.core.EcoPlugin;
-import com.willfp.eco.core.PluginDependent;
+import com.willfp.ecoenchants.PluginDependent;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

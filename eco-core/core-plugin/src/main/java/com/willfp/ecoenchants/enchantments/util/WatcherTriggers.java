@@ -1,7 +1,6 @@
 package com.willfp.ecoenchants.enchantments.util;
 
 import com.willfp.eco.core.EcoPlugin;
-import com.willfp.eco.core.PluginDependent;
 import com.willfp.eco.core.config.updating.ConfigUpdater;
 import com.willfp.eco.core.events.ArmorChangeEvent;
 import com.willfp.eco.core.events.ArmorEquipEvent;
@@ -10,6 +9,7 @@ import com.willfp.eco.core.integrations.antigrief.AntigriefManager;
 import com.willfp.eco.core.integrations.mcmmo.McmmoManager;
 import com.willfp.eco.util.PlayerUtils;
 import com.willfp.ecoenchants.EcoEnchantsPlugin;
+import com.willfp.ecoenchants.PluginDependent;
 import com.willfp.ecoenchants.enchantments.EcoEnchant;
 import com.willfp.ecoenchants.enchantments.EcoEnchants;
 import com.willfp.libreforge.LibReforgeUtils;
